@@ -6,9 +6,10 @@
 - 🌱 I’m currently learning **flutter and java for native**
 
 - 📫 How to reach me **yousef.ahmed124239@gmail.com**
+-  <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10Zo2JQBtTcfrhy1G6QOgVPhq36iimgn8/view?usp=sharing](https://drive.google.com/file/d/10Zo2JQBtTcfrhy1G6QOgVPhq36iimgn8/view?usp=sharing)
-- <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">>
+-
 
 
 <h3 align="left">Languages and Tools:</h3>
