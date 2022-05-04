@@ -15,7 +15,7 @@
 
 <h1 align="left"> 🔥 My Stats : </h1>
 
-<p>&nbsp;<img align="left" src="[(https://github-readme-streak-stats.herokuapp.com?user=youssef1331&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]" alt="youssef1331" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=youssef1331&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="youssef1331" /></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef1331&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="youssef1331" /></p>
