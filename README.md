@@ -8,6 +8,7 @@
 - 📫 How to reach me **yousef.ahmed124239@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10Zo2JQBtTcfrhy1G6QOgVPhq36iimgn8/view?usp=sharing](https://drive.google.com/file/d/10Zo2JQBtTcfrhy1G6QOgVPhq36iimgn8/view?usp=sharing)
+- <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,5 +28,3 @@
 <p align="center">
 <a href="https://linkedin.com/in/youssef-ahmed-26416b209" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-ahmed-26416b209" height="30" width="40" /></a>
 </p>
-<\n>
-
