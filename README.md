@@ -17,7 +17,7 @@
 
 
 
-<h3 align="left"> 🔥 My Stats : </h3>
+<h3 align="left">My Stats : </h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=youssef1331&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="youssef1331" /></p>
 
